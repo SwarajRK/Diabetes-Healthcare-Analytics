@@ -88,4 +88,5 @@ The following models were implemented and evaluated:
 ---
 
    ```bash
-   git clone https://github.com/<your-username>/Diabetes-Healthcare-Analytics.git
+   git clone https://github.com/SwarajRK/Diabetes-Healthcare-Analytics.git
+
